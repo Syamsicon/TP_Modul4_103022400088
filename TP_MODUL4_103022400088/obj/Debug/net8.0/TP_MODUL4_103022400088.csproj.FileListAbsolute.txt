@@ -1,0 +1,15 @@
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\obj\Debug\net8.0\TP_MODUL4_103022400088.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\obj\Debug\net8.0\TP_MODUL4_103022400088.AssemblyInfoInputs.cache
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\obj\Debug\net8.0\TP_MODUL4_103022400088.AssemblyInfo.cs
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\obj\Debug\net8.0\TP_MODUL4_103022400088.csproj.CoreCompileInputs.cache
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\obj\Debug\net8.0\TP_MODUL4_103022400088.sourcelink.json
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\bin\Debug\net8.0\TP_MODUL4_103022400088.exe
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\bin\Debug\net8.0\TP_MODUL4_103022400088.deps.json
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\bin\Debug\net8.0\TP_MODUL4_103022400088.runtimeconfig.json
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\bin\Debug\net8.0\TP_MODUL4_103022400088.dll
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\bin\Debug\net8.0\TP_MODUL4_103022400088.pdb
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\obj\Debug\net8.0\TP_MODUL4_103022400088.dll
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\obj\Debug\net8.0\refint\TP_MODUL4_103022400088.dll
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\obj\Debug\net8.0\TP_MODUL4_103022400088.pdb
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\obj\Debug\net8.0\TP_MODUL4_103022400088.genruntimeconfig.cache
+C:\Users\syams\OneDrive\Documents\kuliah\KPL TP\TP_MODUL4_103022400088\TP_MODUL4_103022400088\obj\Debug\net8.0\ref\TP_MODUL4_103022400088.dll
